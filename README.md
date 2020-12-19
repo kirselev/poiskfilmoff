@@ -3,13 +3,7 @@
 
 <html>
 
-<head>
 
-    <meta charset="UTF-8">
-
-    <title>Bot documentation</title>
-
-</head>
 
 
 <body>
@@ -162,15 +156,8 @@
 
 </ul>
 
-<h2 style="text-align: center;"> <a  href="https://t.me/poiskfilmoff_bot" style="background-color: #00FFFF; text-align: center;">Присоединяйтесь!</h2>
+<h2>Присоединяйтесь!</h2>
 
-
-
-
-
-
-
-<!--   <a style="text-align: center;">Просто нажмите на эту кнопку! </a> -->
 
   
 <h2 >Инструкция по работе с кодом</h2>
